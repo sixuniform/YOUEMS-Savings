@@ -1,0 +1,21 @@
+title: YOUEMS Savings
+views:
+  - title: Savings
+    cards:
+      - show_name: true
+        show_icon: true
+        show_state: true
+        type: glance
+        title: Electricity Savings (Kr)
+        entities:
+          - entity: sensor.youems_savings_today
+            name: Idag
+          - entity: sensor.youems_savings_yesterday
+            name: Igår
+          - entity: sensor.youems_savings_this_month
+            name: Denna månad
+          - entity: sensor.youems_savings_last_month
+            name: Förra månaden
+          - entity: sensor.youems_savings_total
+            name: Totalt
+        columns: 3
