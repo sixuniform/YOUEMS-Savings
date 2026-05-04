@@ -91,7 +91,7 @@ sensor:
 This gives entity: `sensor.nordpool_kwh_se3_sek_5_00_0`
 
 **Adjustment breakdown:**
-- +0.104 SEK — ROT/skattereduktion for sold solar (tax reduction)
+- +0.104 SEK — grid benefit (nätnytta)
 - −0.040 SEK — selling fee
 
 > **Important:** Update the entity names in `youems_savings.yaml` to match your actual Nordpool sensor names.
