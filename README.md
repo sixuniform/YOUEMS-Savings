@@ -190,4 +190,4 @@ state_attr('sensor.YOUR_SELL_PRICE_SENSOR', 'raw_today')
 
 ## Part of YOUEMS
 
-This package is extracted from [YOUEMS](https://github.com/youems) — a full battery scheduler and inverter control system for SolaX/Solinteg inverters with Pylontech batteries and Home Assistant.
+This package is extracted from [YOUEMS](https://github.com/sixuniform/youems) — a full battery scheduler and inverter control system for SolaX/Solinteg inverters with Pylontech batteries and Home Assistant.
